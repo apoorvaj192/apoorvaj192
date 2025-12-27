@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on curating simple, cross platform tools that make everyday digital life a bit calmer and more intentional<br>👯 I'm looking to collaborate on small thoughtful projects focused on accessible and user-centric design<br>🤝 I'm always in need of help with social decoding, *shudder* small talk and cold outreach are the death of me<br>🌱 I'm currently learning javascript to script citizen science projects for microbial ecology and climate science<br>💬Ask me about tech workflows and tools that make the simple things actually simple<br>⚡Fun fact: I was technically a published author at 13 years old <br>
-
+🔭 I'm currently working on a scientific design project that makes science communication simple and effective <br>👯 I'm looking to collaborate on small thoughtful projects focused on accessible and user-focussed design<br>🤝 I'm always in need of help with social decoding, *shudder* small talk and cold outreach are the death of me, let's get straight to the point, in ridiculous detail 💯<br>🌱 I'm currently learning javascript to script citizen science projects for microbial ecology and climate science<br>💬Ask me about: workflows and tools that make the simple things actually simple<br>⚡Fun fact: I was technically a published author at 13 years old, is that a fun fact or a sad fact? <br>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@apoorvajn.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_apoorvajn_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apoorvaj192@gmail.com) 
@@ -18,7 +17,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=apoorvaj192&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me by donating to my design project (@jnanadesigns) at:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jnanadesigns) 
 
   
