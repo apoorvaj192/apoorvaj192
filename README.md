@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a scientific design project that makes science communication simple and effective <br>👯 I'm looking to collaborate on small thoughtful projects focused on accessible and user-focussed design<br>🤝 I'm always in need of help with social decoding, *shudder* small talk and cold outreach are the death of me, let's get straight to the point, in ridiculous detail 💯<br>🌱 I'm currently learning javascript to script citizen science projects for microbial ecology and climate science<br>💬Ask me about: workflows and tools that make the simple things actually simple<br>⚡Fun fact: I was technically a published author at 13 years old, is that a fun fact or a sad fact? <br>
+🔭 I'm currently working on curating simple, cross platform tools that make everyday digital life a bit calmer and more intentional<br>👯 I'm looking to collaborate on small thoughtful projects focused on accessible and user-centric design<br>🤝 I'm always in need of help with social decoding, *shudder* small talk and cold outreach are the death of me<br>🌱 I'm currently learning javascript to script citizen science projects for microbial ecology and climate science<br>💬Ask me about tech workflows and tools that make the simple things actually simple<br>⚡Fun fact: I was technically a published author at 13 years old <br>
 
 
 ## 🌐 Socials:
@@ -12,14 +12,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=apoorvaj192&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvaj192&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Quote
-![Quote](https://github-readme-quotes.vercel.app/quote?quotesUrl=https://gist.github.com/apoorvaj192/f8d5149234d04bdfaecd1fea7d1710c0.js)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=apoorvaj192&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help my design project (jnanadesigns) by donating at:
+  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jnanadesigns) 
 
-
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
