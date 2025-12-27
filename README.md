@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvaj192&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://github-readme-quotes.vercel.app/quote?quotesUrl=https://gist.github.com/apoorvaj192/f8d5149234d04bdfaecd1fea7d1710c0.js)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=apoorvaj192&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -21,5 +21,5 @@
   ## 💰 You can help my design project (jnanadesigns) by donating at:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jnanadesigns) 
 
-**Thanks!**
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
